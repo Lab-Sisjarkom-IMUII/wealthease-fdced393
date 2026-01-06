@@ -1,0 +1,9 @@
+{
+  "name": "wealthease",
+  "framework": "nextjs",
+  "language": "typescript",
+  "buildCommand": "npm run build",
+  "startCommand": "npm run dev",
+  "domain": "wealthease",
+  "email": "24523074@students.uii.ac.id"
+}
