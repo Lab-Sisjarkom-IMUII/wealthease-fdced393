@@ -1,11 +1,14 @@
 {
   "name": "wealthease",
+  "type": "next-ssr",
+  "rootDirectory": "frontend",
   "framework": "nextjs",
   "language": "typescript",
-  "buildCommand": "npm install && cd frontend && npm install && npm run build",
-  "startCommand": "cd frontend && npm start",
-  "installCommand": "npm install && cd frontend && npm install",
-  "outputDirectory": "frontend/.next",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "installCommand": "npm install",
+  "outputDirectory": ".next",
+  "nodeVersion": "18",
   "domain": "wealthease",
   "email": "24523074@students.uii.ac.id"
 }
